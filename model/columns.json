@@ -1,0 +1,1 @@
+{"data_columns": ["age", "restingbp", "cholesterol", "fastingbs", "restingecg", "maxhr", "oldpeak", "st_slope", "sex_f", "sex_m", "chestpaintype_asy", "chestpaintype_ata", "chestpaintype_nap", "chestpaintype_ta", "exerciseangina_n", "exerciseangina_y"]}
